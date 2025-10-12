@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://sangeethhk.github.io/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sangeethhk/" target="_blank">LinkedIn</a> •
-  <a href="mailto:sangeethhk@example.com" target="_blank">Email</a>
+  <a href="mailto:sangeeth6363@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Check out my latest projects and workshops on my portfolio:
   <a href="https://github.com/sangeethhk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:sangeethhk@example.com" target="_blank">
+  <a href="mailto:sangeeth6363@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
