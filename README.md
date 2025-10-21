@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sangeeth H K</h1>
+<h1 align="center">Hi 👋, I'm Sangeeth  K</h1>
 <h3 align="center">B.Tech Cybersecurity Student | Web Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
