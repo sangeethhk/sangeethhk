@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeeth  K</h1>
-<h3 align="center">B.Tech Cybersecurity Student | Web Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">B.Tech Cybersecurity Student | Web Developer | Cybersecurity Enthusiast | Prompt Developer</h3>
 
 <p align="center">
   <a href="https://sangeethhk.github.io/" target="_blank">Portfolio</a> •
