@@ -48,8 +48,8 @@ I am a cybersecurity professional, certified penetration tester, and developer d
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeethhk&show_icons=true&theme=radical" alt="Sangeeth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethhk&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sangeethhk&show_icons=true&theme=radical&v=2026" alt="Sangeeth's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sangeethhk&layout=compact&theme=radical&v=2026" alt="Top Languages" width="48%" />
 </p>
 
 ---
