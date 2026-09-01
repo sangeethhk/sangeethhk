@@ -1,24 +1,103 @@
-<h1 align="center">GAY & PROUD</h1>
+# 👋 Hey, I'm Sangeeth K
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=300&color=FF1493&center=true&vCenter=true&width=700&height=70&lines=I+AM+GAY;GAY+%26+PROUD;YES%2C+I'M+GAY;LOVE+IS+LOVE;BE+YOURSELF" alt="Typing animation">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="500" alt="Rainbow animation">
+</p>
+
+<h3 align="center">🏳️‍🌈 Developer • Creator • Proudly Me</h3>
+
+<p align="center">
+  <i>Code with passion. Live with pride. Be unapologetically yourself. 🌈</i>
+</p>
+
+---
+
+## 🌈 About Me
+
+Hey! I'm **Sangeeth K** 👋
+
+I'm a developer who loves building things, learning new technologies, and expressing myself authentically.
+
+🏳️‍🌈 Proudly part of the LGBTQ+ community
+💻 Passionate about technology & development
+🚀 Always learning and experimenting
+✨ Believer in authenticity, kindness, and inclusivity
+☕ Powered by coffee and questionable amounts of code
+
+---
+
+## 🛠️ Tech I Love
+
+```text
+💻 Development
+├── JavaScript / TypeScript
+├── Python
+├── React
+├── Node.js
+└── Git & GitHub
+
+🚀 Always Exploring
+├── AI & Machine Learning
+├── Open Source
+└── New technologies
+```
+
+---
+
+## 🏳️‍🌈 Pride & Code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Pride rainbow">
+</p>
+
+> **"Be yourself; everyone else is already taken."**
+
+I believe technology should be a space where everyone can create, collaborate, and belong — regardless of who they are or who they love.
+
+**Love is love. Code is code. And there's room for everyone. 🌈**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Sangeeth's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FF1493,8A2BE2,00BFFF,00FF7F,FFD700&height=160&section=header&text=GAY%20%26%20PROUD&fontSize=42&fontAlignY=35&animation=twinkling" alt="Pride banner">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub streak">
 </p>
 
-<h2 align="center">I AM GAY</h2>
+---
+
+## 🌈 Currently
+
+```yaml
+name: Sangeeth K
+pronouns: "Your choice 😊"
+status: "Building & learning"
+community: "LGBTQ+ 🏳️‍🌈"
+mood: "Coding with pride ✨"
+```
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <b>YES. I'M GAY.</b><br>
-  Be yourself. Be proud. Be fabulous.
+  <a href="https://github.com/sangeethhk">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=800&pause=200&color=8A2BE2&center=true&vCenter=true&width=650&height=60&lines=PROUDLY+GAY;GAY+AND+PROUD;STAY+FABULOUS;LOVE+IS+LOVE" alt="Pride animation">
-</p>
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FF1493,8A2BE2,00BFFF,00FF7F,FFD700&height=120&section=footer&animation=twinkling" alt="Pride footer">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow divider">
+</p>
+
+<h3 align="center">🏳️‍🌈 Stay proud. Stay curious. Keep building. 🚀</h3>
+
+<p align="center">
+  Made with ❤️ & lots of 🌈
 </p>
