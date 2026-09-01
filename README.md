@@ -1,93 +1,24 @@
-cat > README.md <<'EOF'
-<h1 align="center">
-🌈✨ Hi 👋, I'm Sangeeth K! ✨🌈
-</h1>
-
-<h3 align="center">
-🏳️‍🌈 Proudly Gay • Cybersecurity • 3D Web • Bug Hunting 🏳️‍🌈
-</h3>
+<h1 align="center">GAY & PROUD</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=💖+Yes%2C+I'm+gay+🏳️‍🌈;🔐+Cybersecurity+Enthusiast;💻+Developer;🐛+Bug+Hunter;✨+Being+myself+is+my+superpower+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=300&color=FF1493&center=true&vCenter=true&width=700&height=70&lines=I+AM+GAY;GAY+%26+PROUD;YES%2C+I'M+GAY;LOVE+IS+LOVE;BE+YOURSELF" alt="Typing animation">
 </p>
 
 <p align="center">
-🩷 ❤️ 🧡 💛 💚 💙 💜 🩵 🩷
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FF1493,8A2BE2,00BFFF,00FF7F,FFD700&height=160&section=header&text=GAY%20%26%20PROUD&fontSize=42&fontAlignY=35&animation=twinkling" alt="Pride banner">
 </p>
 
----
-
-## 🏳️‍🌈 About Me
+<h2 align="center">I AM GAY</h2>
 
 <p align="center">
-<b>🌈 Gay & proud 🌈</b>
-</p>
-
-<p align="center">
-🔐 Cybersecurity enthusiast • 💻 Developer • 🐛 Bug Hunter • 🎨 3D Web
+  <b>YES. I'M GAY.</b><br>
+  Be yourself. Be proud. Be fabulous.
 </p>
 
 <p align="center">
-💖 Be yourself. Be fearless. Be fabulous. 💖
-</p>
-
----
-
-## 💻 What I Do
-
-- 🔐 **Cybersecurity** — Ethical Hacking • Penetration Testing • Web Security
-- 🌐 **Development** — Web Development • 3D Web Experiences
-- 🐛 **Bug Hunting** — Finding vulnerabilities and learning from them
-- 🐍 **Programming** — Python and security-focused development
-- 🔎 **OSINT** — Research, investigation and digital intelligence
-
----
-
-## 🌈 Pride Mode: `ON`
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=800&pause=200&color=8A2BE2&center=true&vCenter=true&width=650&height=60&lines=PROUDLY+GAY;GAY+AND+PROUD;STAY+FABULOUS;LOVE+IS+LOVE" alt="Pride animation">
 </p>
 
 <p align="center">
-<b>🌈 Love is love. Be whoever you want to be. 💅✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FF1493,8A2BE2,00BFFF,00FF7F,FFD700&height=120&section=footer&animation=twinkling" alt="Pride footer">
 </p>
-
-<p align="center">
-🏳️‍🌈 🏳️‍⚧️ 💖 💅 ✨ 👑 🌈
-</p>
-
----
-
-## 🛠️ Tech & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-</p>
-
----
-
-## 🔐 Cybersecurity Interests
-
-```text
-          🔐
-       ╱      ╲
-      ╱  HACK  ╲
-     │   THE    │
-     │  PLANET  │
-      ╲        ╱
-       ╲______╱
-
-  🕵️ OSINT
-  🐛 Bug Hunting
-  🔓 Web Security
-  🛡️ Network Security
-  💻 Ethical Hacking
-  🔍 Digital Forensics
